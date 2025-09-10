@@ -47,4 +47,4 @@ Lógica de Cache
 - Restaurar dependências com dotnet restore
 - Subir instâncias do MySQL e Redis localmente
 - Configurar a connection string no código
-- Executar a aplicação com dotnet run
+- Executar a aplicação com `dotnet run`
